@@ -17,4 +17,4 @@
 <a href="" target="blank"><img align="center" src="https://github.com/Amine-Mb/Amine_mabrouk/blob/main/WhatsApp_logo-color-vertical.svg.png" alt="" height="30" /></a>
 </p>
 
-<h2> Samples from my projects </h2>
+### Samples from my projects 
